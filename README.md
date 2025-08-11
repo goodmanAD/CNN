@@ -11,5 +11,5 @@ tracks of leptons generated using a toy detector model, with a focus on trigger 
 # Sample tracks
 ### Without smearing 
 <img width="307" height="298" alt="image" src="https://github.com/user-attachments/assets/15c2b4d5-c031-431e-b19e-c6de5a558c52" />
-##$ With smearing 
+### With smearing 
 <img width="417" height="404" alt="image" src="https://github.com/user-attachments/assets/1787b914-565f-45b6-96ae-1a0f7c6bce89" />
